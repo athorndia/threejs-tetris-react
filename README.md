@@ -10,3 +10,9 @@
 npm install
 npm run dev
 ```
+
+Notes:
+
+- object collision interference
+- need better rotation keys for axis rotation
+- need option to push/pull/slide left or right object
